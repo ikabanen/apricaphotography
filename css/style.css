@@ -18,10 +18,13 @@
 	font-family:MissFajardose-Regular;
 	src: url(../fonts/MissFajardose-Regular.ttf);}
 
+@font-face{
+	font-family:PoiretOne-Regular;
+	src: url(../fonts/PoiretOne-Regular.ttf);}
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––– */
 body{
-	font-family: 'Poiret One', cursive;
+	font-family: 'PoiretOne-Regular';
 	font-size: 1.5em;
 	color: #000;
 }
