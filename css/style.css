@@ -22,7 +22,7 @@ body{
 	color: #000;
 }
 h2{
-	font-family: 'Miss Fajardose', cursive;
+	font-family: 'FontAwesome';
 	font-size: 4em;
 	margin: 0.67em;
 }
@@ -47,6 +47,7 @@ header.main_nav{
 	text-transform: uppercase;
 	padding: 2px 10px 0 10px;
 	margin: 0;
+	font-family: 'FontAwesome';
 }
 .logo a:hover{
 	background-color: #fff;
